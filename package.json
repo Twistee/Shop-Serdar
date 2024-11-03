@@ -1,0 +1,17 @@
+{
+  "name": "shop-serdar",
+  "version": "1.0.0",
+  "main": "Backend/app.js",
+  "scripts": {
+    "start": "node Backend/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "twilio": "^5.3.5"
+  }
+}
